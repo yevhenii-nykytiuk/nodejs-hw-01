@@ -1,3 +1,17 @@
-const generateContacts = async (number) => {};
+// import {writeContacts} from '../utils/writeContacts.js';
+import { createFakeContact } from '../utils/createFakeContact.js';
+// import { PATH_DB } from '../constants/contacts.js';
 
-generateContacts(5);
+const generateContacts = async (amount) => {
+  const array = [];
+  for (let i = 0; i < amount; i++) {
+   array.push(createFakeContact());
+  }
+
+  return array;
+};
+
+console.log(generateContacts(4));
+
+
+
