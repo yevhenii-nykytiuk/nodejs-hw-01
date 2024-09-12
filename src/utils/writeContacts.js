@@ -12,7 +12,7 @@ export const writeContacts = async (updatedContacts) => {
   }
 };
 
-writeContacts([createFakeContact()]);
+ writeContacts([createFakeContact()]);
 
 
 
