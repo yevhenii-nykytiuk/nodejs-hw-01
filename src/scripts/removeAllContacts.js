@@ -1,3 +1,7 @@
-export const removeAllContacts = async () => {};
+import 
+
+export const removeAllContacts = async () => {
+  const contacts =
+};
 
 removeAllContacts();
