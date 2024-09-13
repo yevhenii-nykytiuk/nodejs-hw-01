@@ -9,7 +9,7 @@ export const removeLastContact = async () => {
     contacts.pop();
   }
 
-  await writeContacts(contacts);
+  return writeContacts(contacts);
 };
 
 

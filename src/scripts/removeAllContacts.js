@@ -8,7 +8,7 @@ export const removeAllContacts = async () => {
     contacts.pop();
   }
 
-  return writeContacts(contacts);
+  await writeContacts(contacts);
 };
 
 console.log(await removeAllContacts());
