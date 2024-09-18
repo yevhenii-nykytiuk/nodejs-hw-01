@@ -12,4 +12,4 @@ export const removeAllContacts = async () => {
   return await fs.writeFile(PATH_DB, JSON.stringify(contacts, null, 2));
 };
 
-console.log(await removeAllContacts());
+await removeAllContacts();
