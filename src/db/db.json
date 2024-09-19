@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "55b6129f-00df-435f-99d5-9188ca2ad36e",
+    "name": "Rochelle Erdman",
+    "phone": "973.859.3391 x0442",
+    "email": "Josefa.McCullough29@hotmail.com",
+    "job": "Human Operations Representative"
+  },
+  {
+    "id": "b4a1e0cb-7c60-4634-a4bb-91b595e7e3a3",
+    "name": "Krista Nitzsche",
+    "phone": "999.609.0572 x6494",
+    "email": "Reilly44@hotmail.com",
+    "job": "Regional Tactics Executive"
+  },
+  {
+    "id": "e12a7cf5-b424-40fc-bc7b-3cd766570ac8",
+    "name": "Dr. Angelica Spinka",
+    "phone": "285-430-2981 x4808",
+    "email": "Maria.Jones@gmail.com",
+    "job": "Regional Branding Representative"
+  },
+  {
+    "id": "84234fcd-6a0c-4ee0-9bbe-cbc3bcdc7e36",
+    "name": "Eleanor Beahan",
+    "phone": "1-641-885-5163",
+    "email": "Christy_Herman@hotmail.com",
+    "job": "Lead Integration Agent"
+  },
+  {
+    "id": "4d86b712-a1f8-4df8-9daf-05efb289629d",
+    "name": "Brandon Kreiger III",
+    "phone": "435-543-7096 x91159",
+    "email": "Rasheed_Kautzer@yahoo.com",
+    "job": "Dynamic Accountability Engineer"
+  },
+  {
+    "id": "94bb8e5b-f07f-4e39-a515-8c19329cc67d",
+    "name": "Devin Jakubowski",
+    "phone": "773.692.5865 x2303",
+    "email": "Kelley.Bode@hotmail.com",
+    "job": "Legacy Implementation Facilitator"
+  }
+]
